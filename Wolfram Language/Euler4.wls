@@ -1,0 +1,1 @@
+Print@Max@Select[Flatten@Table[a b, {a,100,999}, {b,100,a}], PalindromeQ];
